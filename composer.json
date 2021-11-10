@@ -1,10 +1,10 @@
 {
-    "name": "goetas-webservices/euro-vies-client",
+    "name": "informatique-libre/euro-vies-client",
     "authors": [
         {
-            "name": "Asmir Mustafic",
-            "email": "goetas@gmail.com",
-            "homepage": "https://www.goetas.com"
+            "name": "Eric Seigne",
+            "email": "eric.seigne@informatique-libre.com",
+            "homepage": "https://informatique-libre.com"
         }
     ],
     "license": "MIT",
