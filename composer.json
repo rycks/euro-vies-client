@@ -1,5 +1,5 @@
 {
-    "name": "informatique-libre/euro-vies-client",
+    "name": "goetas-webservices/euro-vies-client",
     "authors": [
         {
             "name": "Eric Seigne",
@@ -12,7 +12,7 @@
         "goetas-webservices/soap-client": "^0.2.7",
         "php-http/message": "^1.0",
         "guzzlehttp/guzzle": "^7.0.1",
-        "guzzlehttp/psr7": "~1.1 || ^2.0"
+        "guzzlehttp/psr7": "^2.0"
     },
     "require-dev": {
         "goetas-webservices/wsdl2php": "^0.4"
