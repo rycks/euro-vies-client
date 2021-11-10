@@ -9,7 +9,7 @@
     ],
     "license": "MIT",
     "require": {
-        "goetas-webservices/soap-client": "dev",
+        "goetas-webservices/soap-client": "dev-master",
         "php-http/message": "^1.0",
         "guzzlehttp/guzzle": "^7.0.1",
         "guzzlehttp/psr7": "^2.0"
